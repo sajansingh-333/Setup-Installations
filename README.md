@@ -1,2 +1,2 @@
 # Setup-Installations
-inatsllations and setup
+inatallations and setup
